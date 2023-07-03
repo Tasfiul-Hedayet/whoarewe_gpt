@@ -1,0 +1,9 @@
+{
+  "name": "WHOAREWE_NSU",
+  "short_name": "STAR",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}

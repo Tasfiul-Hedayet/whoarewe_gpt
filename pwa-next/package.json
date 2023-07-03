@@ -1,5 +1,5 @@
 {
-  "name": "whoarewe-gpt",
+  "name": "pwa-next",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,12 +10,10 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.14",
-    "dotenv": "^16.3.1",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.7",
     "next": "13.4.7",
     "next-pwa": "^5.6.0",
-    "openai": "^3.3.0",
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
